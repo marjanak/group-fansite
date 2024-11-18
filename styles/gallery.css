@@ -1,0 +1,38 @@
+.container {
+    width: 1400px;
+    height: 800px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr) ;
+   
+    }
+
+body {
+    text-align: center;
+    color: pink;
+   
+}
+  
+#monstera{
+    background-color:pink;
+    grid-column:1/5;
+    grid-row:1/2;
+    
+}
+#money-plant{
+    background-color: yellow;
+    grid-column:1/5 ;
+    grid-row: 2/3
+   
+}
+#pothos{
+    background-color: rgb(222, 134, 222);
+    grid-column: 1/5;
+    grid-row: 3/4;
+  
+    }
+
+h1 {
+    font-family: papyrus;
+    color: green;
+}
