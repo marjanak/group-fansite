@@ -3,18 +3,18 @@
 
 body {
     text-align: center;
-    background-color: lightseagreen;
+    background-image: url('https://www.pexels.com/photo/green-leaf-1353938/');
    
 }
 
 h1 {
     font-family : Papyrus;
-    color: green;
+    color: black;
     padding: 25px;
-    border-style: double;
+   
 }
 h2 {
-    color: green;
+    color: black;
 }
 
 li {
@@ -25,9 +25,9 @@ li {
 }
 
 p {
-    border: 1px solid black;
+  
     padding: 50px;
-    color: green;
+    color: black;
    
 }
 
