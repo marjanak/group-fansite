@@ -14,19 +14,19 @@ body {
 }
   
 #monstera{
-    background-color:pink;
+    background-color:yellowgreen;
     grid-column:1/5;
     grid-row:1/2;
     
 }
 #money-plant{
-    background-color: yellow;
+    background-color: pink;
     grid-column:1/5 ;
     grid-row: 2/3
    
 }
 #pothos{
-    background-color: rgb(222, 134, 222);
+    background-color: skyblue;
     grid-column: 1/5;
     grid-row: 3/4;
   
@@ -35,4 +35,12 @@ body {
 h1 {
     font-family: papyrus;
     color: green;
+}
+
+footer {
+    
+    bottom: 0;
+    text-align: center;
+    width:  100%;
+    
 }

@@ -3,6 +3,7 @@
 
 body {
     text-align: center;
+    background-color: lightseagreen;
    
 }
 
@@ -10,6 +11,7 @@ h1 {
     font-family : Papyrus;
     color: green;
     padding: 25px;
+    border-style: double;
 }
 h2 {
     color: green;
@@ -30,10 +32,19 @@ p {
 }
 
 footer {
-    
     bottom: 0;
     text-align: center;
-    width:  100%;
+    width:  100%; 
+}
+#footer-text {
+    
+    color: rebeccapurple;
+    font-weight: bold;
+    border: none;
+    padding: 0;
 }
 
+footer nav ul {
+    padding:0
 
+}
