@@ -50,6 +50,9 @@ body {
 
 p {
     font-size: x-large;
+    font-family: Papyrus;
+    color: green;
+    
 }
 
 a {
@@ -60,4 +63,15 @@ a {
     display: inline-block;
     margin: 10px;          
     transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+h1 {
+    padding-left: 400px;
+    padding-top: 150px;
+    color: green;
+}
+
+h2 {
+    font-family: Papyrus;
+    color : green;
 }
