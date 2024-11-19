@@ -13,21 +13,21 @@ body {
    
 }
   
-#monstera{
+#header-bar{
   
-    grid-column:1/5;
+    grid-column:2/4;
     grid-row:1/2;
     
 }
-#money-plant{
+#section-bar{
   
-    grid-column:1/5 ;
+    grid-column:2/4 ;
     grid-row: 2/3
    
 }
-#pothos{
+#footer-bar{
  
-    grid-column: 1/5;
+    grid-column: 2/4;
     grid-row: 3/4;
   
     }
@@ -53,4 +53,14 @@ background-color:rgb(177, 208, 192)
 
 img {
     box-shadow: 10px 5px 5px green ;
+}
+
+p {
+    font-family: Papyrus;
+    color: green;
+}
+
+h2 {
+    font-family: Papyrus;
+    color: green;
 }
