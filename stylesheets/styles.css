@@ -1,18 +1,12 @@
 
-
-
 body {
     text-align: center;
-    
     }
-   
-
 
 h1 {
     font-family : Papyrus;
     color: black;
     padding: 25px;
-   
 }
 h2 {
     color: black;
@@ -21,15 +15,12 @@ h2 {
 li {
     display: grid;
     padding: 60px;
-    color: black ;
-    
+    color: black ; 
 }
 
 p {
-  
     padding: 50px;
     color: black;
-   
 }
 
 footer {
@@ -38,11 +29,9 @@ footer {
     width:  100%; 
 }
 .footer-text {
-    
     color: green;
     font-weight: bold;
     border: none;
     padding: 0;
-
 }
 

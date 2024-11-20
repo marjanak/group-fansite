@@ -10,23 +10,19 @@
 body {
     text-align: center;
     color: pink;
-   
 }
   
 #header-bar{
-  
     grid-column:2/4;
-    grid-row:1/2;
-    
+    grid-row:1/2; 
 }
+
 #section-bar{
-  
     grid-column:2/4 ;
     grid-row: 2/3
-   
 }
+
 #footer-bar{
- 
     grid-column: 2/4;
     grid-row: 3/4;
   
@@ -38,17 +34,13 @@ h1 {
 }
 
 footer {
-    
     bottom: 0;
     text-align: center;
     width:  100%;
-    
 }
 
 body {
-
-background-color:rgb(177, 208, 192)
-
+    background-color:rgb(177, 208, 192);
 }
 
 img {

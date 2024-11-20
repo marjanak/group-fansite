@@ -1,14 +1,10 @@
 .container {
     display: flex;
-
     flex-direction: column;
-
     flex-wrap: wrap;
     width: 1400px;
     height: 600px;
     justify-content:center;
-    
-    
     }
 
 body {
@@ -18,24 +14,25 @@ body {
     background-repeat: no-repeat;
     height: 100vh;
     margin: 0;
-    }  
+    } 
+
 li {
     padding: 10px;
 } 
-h1 {
-    
+
+h1 { 
     margin-bottom: 0;
     padding-top: 50px;
     padding-bottom: 0;
-    font-family: ;
+    font-family:Papyrus ;
 }
 
 .container> div {
     min-width: 50px;
     min-height: 50px;
-  }
+}
 
-  h3 {
+h3 {
     font-family:Papyrus;
     color: green;
   }
